@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=vinaysomawat&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vinaysomawat&theme=flag-india&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaysomawat&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nishantpjain&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nishantpjain&theme=flag-india&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantpjain&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!--
 **nishantpjain/nishantpjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
